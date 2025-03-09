@@ -1,8 +1,8 @@
 # Dashboard Pemesanan Produk
 
 ## Setup Environment - Shell/Terminal
->mkdir submission
->cd submission
+>mkdir submission  return
+>cd submission  return
 >pip install -r requirements.txt
 
 ## Run streamlit app
